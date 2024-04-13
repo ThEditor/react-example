@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  const name = "John Doe";
+  const name = "ThEditor";
 
   return (
     <div className="App">
